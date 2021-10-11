@@ -1,0 +1,13 @@
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\bin\Debug\netcoreapp3.1\CircleTester.exe
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\bin\Debug\netcoreapp3.1\CircleTester.deps.json
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\bin\Debug\netcoreapp3.1\CircleTester.runtimeconfig.json
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\bin\Debug\netcoreapp3.1\CircleTester.runtimeconfig.dev.json
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\bin\Debug\netcoreapp3.1\CircleTester.dll
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\bin\Debug\netcoreapp3.1\CircleTester.pdb
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\obj\Debug\netcoreapp3.1\CircleTester.csproj.AssemblyReference.cache
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\obj\Debug\netcoreapp3.1\CircleTester.AssemblyInfoInputs.cache
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\obj\Debug\netcoreapp3.1\CircleTester.AssemblyInfo.cs
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\obj\Debug\netcoreapp3.1\CircleTester.csproj.CoreCompileInputs.cache
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\obj\Debug\netcoreapp3.1\CircleTester.dll
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\obj\Debug\netcoreapp3.1\CircleTester.pdb
+C:\Users\ybeea\source\repos\CircleTester\CircleTester\obj\Debug\netcoreapp3.1\CircleTester.genruntimeconfig.cache
